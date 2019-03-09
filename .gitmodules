@@ -1,3 +1,3 @@
 [submodule "deal_or_no_deal"]
 	path = deal_or_no_deal
-	url = git@github.com:bobby-saul/deal_or_no_deal.git
+	url = https://github.com/bobby-saul/deal_or_no_deal.git
