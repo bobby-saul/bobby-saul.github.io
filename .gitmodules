@@ -4,3 +4,6 @@
 [submodule "snake"]
 	path = snake
 	url = https://github.com/bobby-saul/snake.git
+[submodule "concordance"]
+	path = concordance
+	url = https://github.com/bobby-saul/concordance.git
