@@ -7,3 +7,6 @@
 [submodule "concordance"]
 	path = concordance
 	url = https://github.com/bobby-saul/concordance.git
+[submodule "football"]
+	path = football
+	url = https://github.com/bobby-saul/football.git
