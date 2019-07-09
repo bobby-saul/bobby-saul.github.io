@@ -7,6 +7,7 @@ body {
 }
 
 a {
+    display: inline-block;
     background-color: #ffffff;
     border: 1px solid #555555;
     border-radius: 5px;
