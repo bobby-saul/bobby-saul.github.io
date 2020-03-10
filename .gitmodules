@@ -10,3 +10,6 @@
 [submodule "football"]
 	path = football
 	url = https://github.com/bobby-saul/football.git
+[submodule "monty_carlo"]
+	path = monty_carlo
+	url = https://github.com/bobby-saul/monty_carlo.git
