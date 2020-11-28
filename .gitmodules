@@ -13,3 +13,6 @@
 [submodule "monty_carlo"]
 	path = monty_carlo
 	url = https://github.com/bobby-saul/monty_carlo.git
+[submodule "turkey-hunt"]
+	path = turkey-hunt
+	url = https://github.com/bobby-saul/turkey-hunt.git
