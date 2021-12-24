@@ -16,3 +16,6 @@
 [submodule "turkey-hunt"]
 	path = turkey-hunt
 	url = https://github.com/bobby-saul/turkey-hunt.git
+[submodule "boggle"]
+	path = boggle
+	url = git@github.com:bobby-saul/boggle.git
